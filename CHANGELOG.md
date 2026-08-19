@@ -2,6 +2,11 @@
 
 All notable changes to this template are documented here.
 
+## [Unreleased]
+
+### Changed
+- Replaced the legacy maintainer-specific agent guidance with the contributor-neutral public baseline.
+
 ## [0.1.0] - 2026-02-28
 
 ### Added
